@@ -8,4 +8,4 @@
 - RAM: 2GB
 - Disk: 20GB
 - Status: ✅ Installed and verified
-- Screenshot: ![WS-01 Network OK](C:\Projects\CCO-AgroVision-Security\screenshots\1_ws01_installed_network_ok.png)
+- Screenshot: ![WS-01 Network OK](C:\Projects\CCO-AgroVision-Security\screenshots)
