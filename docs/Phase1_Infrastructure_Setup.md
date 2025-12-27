@@ -1,4 +1,4 @@
-# Phase 1: Infrastructure Setup
+﻿# Phase 1: Infrastructure Setup
 
 ## VM Configuration
 
@@ -8,4 +8,5 @@
 - RAM: 2GB
 - Disk: 20GB
 - Status: ✅ Installed and verified
-- Screenshot: ![WS-01 Network OK](C:\Projects\CCO-AgroVision-Security\screenshots)
+
+![WS-01 Network OK](../screenshots/1_ws01_installed_network_ok.png)
